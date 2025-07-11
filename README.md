@@ -11,5 +11,6 @@
 - (ISC)<sup>2</sup> - CISSP
 - Hack the Box Certification
 - Comptia Security+
+- AWS Cloud Practitioner
 
 # Find me [here].
