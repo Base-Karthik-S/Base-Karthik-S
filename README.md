@@ -2,7 +2,8 @@
 
 ### Thank you for visting my profile. This is where I work on and share my projects with the world!<br/>
 ### I'm currently learning Cybersecurity, Linux, Python, AI, App Development and Automation<br/>
-### An avid and fast learner by practice, and committed to improving day-by-day.
+### An avid and fast learner by practice, and committed to improving day-by-day.</br>
+### Here is my [LinkedIn](https://www.linkedin.com/in/karthik-s-0b750b22a/) portfolio.</br>
 ### I created my cybersecurity portfolio. Please find it [here](https://github.com/Base-Karthik-S/Cybersecurity_Portfolio-Karthik-S).<br/>
 
 ### Completed:
