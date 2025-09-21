@@ -14,7 +14,6 @@
 
 ### Targeting:
 - (ISC)<sup>2</sup> - Certfied in Cybersecurity
-- CCNA 200-301
 - Comptia Network+
 - Comptia Security+
 - Hack the Box Certification
