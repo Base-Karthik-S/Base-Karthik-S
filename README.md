@@ -19,4 +19,4 @@
 - Hack the Box Certification
 - AWS Cloud Practitioner
 
-# Find me [here].
+# Find me [here] - Web portfolio in the making.
