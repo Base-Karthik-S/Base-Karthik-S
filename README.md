@@ -7,15 +7,15 @@
 ### I created my cybersecurity portfolio. Please find it [here](https://github.com/Base-Karthik-S/Cybersecurity_Portfolio-Karthik-S).<br/>
 
 ### Completed:
+- TryHackMe Pre Security & Cyber Security 101; currently doing SOC L1 Path.
 - Google Cyber Security Professional Certification
 - Google Data Analytics Professional Certification
 - (ISC)<sup>2</sup> - Introducing Security: Aligning Asset and Risk Management
 - Placed in the top 25% of Summer Analytics 2023 Hosted by IIT Guwahati Consulting & Analytics Club 
 
 ### Targeting:
-- (ISC)<sup>2</sup> - Certfied in Cybersecurity
-- Comptia Network+
 - Comptia Security+
+- SAL1 (THM) Certification
 - Hack the Box Certification
 - AWS Cloud Practitioner
 
